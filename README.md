@@ -1,45 +1,49 @@
-# Entrega Final — AC Administración de Consorcios
+🏢 Administración de Consorcios Alejandro Casas
+Este sitio web presenta los servicios, valores y canales de contacto de AC Administración de Consorcios, una empresa dedicada a la gestión transparente, legal y técnica de edificios en Buenos Aires.
 
-Sitio web desarrollado como parte del Proyecto Final del curso de Desarrollo Web. Representa la identidad digital de la empresa "AC Administración de Consorcios", dedicada a la gestión profesional de edificios en Buenos Aires.
+📄 Contenido del sitio
+El proyecto incluye cinco secciones principales:
+- index.html: Página de inicio con presentación institucional
+- servicios.html: Detalle de servicios ofrecidos
+- nosotros.html: Información sobre el equipo y filosofía de trabajo
+- contacto.html: Formulario para consultas y reclamos
+- proveedores.html: Gestión de proveedores y resolución de reclamos
 
-## 🌐 Sitio publicado
+🧱 Estructura del repositorio
+entrega-final/
+├── index.html
+├── servicios.html
+├── nosotros.html
+├── contacto.html
+├── proveedores.html
+├── css/
+│   └── style.css
+├── scss/
+│   └── main.scss
+├── imagenes/
+│   ├── logocasas.jpg
+│   ├── equipodetrabajo.jpg
+│   ├── proveedores.jpg
+│   └── favicon.ico
+└── README.md
 
-Accedé al sitio en vivo a través de GitHub Pages:  
-👉 [https://alejandocasas.github.io/EntregaFinal/]
-
-## 📁 Estructura del proyecto
-PreEntrega3Casas/ ├── index.html ├── servicios.html ├── nosotros.html ├── contacto.html ├── proveedores.html ├── css/ │   ├── style.css │   └── style.css.map ├── scss/ │   └── main.scss ├── imagenes/ │   ├── logocasas.jpg │   ├── equipodetrabajo.jpg │   └── proveedores.jpg
 
 
-## 🧱 Tecnologías utilizadas
-
-- HTML5 con estructura semántica
-- CSS3 con estilos personalizados
-- Bootstrap 5 (grillas, componentes, breakpoints)
-- SASS con:
-  - Variables
-  - Mixins
-  - Extend
-  - Anidación
+⚙️ Tecnologías utilizadas
+- HTML5 semántico
+- SCSS modular compilado a CSS
+- Bootstrap 5 para diseño responsive
 - Git y GitHub para control de versiones
+- GitHub Pages, Vercel y Netlify para despliegue
 
-## 🎨 Características del sitio
+🌐 Sitio publicado
+- GitHub Pages: https://acasas917-ship-it.github.io/entrega-final/
+- Vercel: (agregá el link cuando lo tengas)
+- Netlify: (opcional, si lo usás también)
 
-- Diseño responsive sin scroll horizontal
-- Menú navegable entre páginas
-- Animación `fadeIn` y `fadeUp` en elementos clave
-- Hover sutil en el logo
-- Imagen de equipo profesional alineada con la identidad visual
-- Página dedicada a la gestión de proveedores y resolución de reclamos
-- Estilos personalizados combinados con clases de Bootstrap
-- Organización clara de carpetas y archivos
-- Buenas prácticas de SEO y accesibilidad
-
-## 📈 Historial de commits
-
-El proyecto cuenta con commits descriptivos que documentan cada mejora aplicada. Se utilizó control de versiones para organizar el desarrollo y mantener trazabilidad.
-
-## 📮 Contacto
-
-📧 contacto@alejandocasas.com  
-📞 (011) 1234-5678
+✅ Criterios cumplidos
+- SEO básico: títulos referenciales, meta descriptions y favicon
+- Diseño responsive adaptado a múltiples dispositivos
+- Navegación clara y accesible
+- Estructura de archivos optimizada para despliegue
+- Subida mediante commits y control de versiones
