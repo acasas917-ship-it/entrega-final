@@ -70,3 +70,14 @@ body footer {
 .fade-in {
   animation: fadeIn 1s ease-out;
 }/*# sourceMappingURL=main.css.map */
+
+html, body {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+main {
+  flex: 1;
+}
