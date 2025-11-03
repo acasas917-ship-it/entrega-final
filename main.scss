@@ -105,3 +105,16 @@ body {
   animation: fadeUp 0.8s ease-out;
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
